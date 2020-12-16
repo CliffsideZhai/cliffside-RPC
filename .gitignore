@@ -1,0 +1,7 @@
+# Project exclude paths
+/cliffside-RMIClient/target/
+/cliffside-RMIServer/target/
+/cliffside-RPC/consumer/target/
+/cliffside-RPC/pojo/target/
+/cliffside-RPC/service/Provider/target/
+/cliffside-RPC/service/target/
